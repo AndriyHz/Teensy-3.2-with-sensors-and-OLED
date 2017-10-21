@@ -6,9 +6,9 @@ Teensy 3.2 + OLED + sensors (BME280 and SenseAir S8)
 - Teensy_3.2_Work_with_OLED_CO2_BME280
 
 
-LIBRARY
+LIBRARY (Please add)
 
--OLED Work only with library KurtE/SparkFun_TeensyView_Arduino_Library (https://github.com/KurtE/SparkFun_TeensyView_Arduino_Library/tree/Multiple_SPI_EventResponder/examples). Please add.
+-OLED Work only with library KurtE/SparkFun_TeensyView_Arduino_Library (https://github.com/KurtE/SparkFun_TeensyView_Arduino_Library/tree/Multiple_SPI_EventResponder/examples).
 
 -BME280 Library
 (https://github.com/bolderflight/BME280)
