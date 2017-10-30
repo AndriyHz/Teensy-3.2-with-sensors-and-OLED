@@ -5,7 +5,7 @@ Teensy 3.2 + OLED
 - Teensy 3.2 + OLED + sensors (BME280, SenseAir S8)
   Teensy_3.2_Work_with_OLED_CO2_BME280.ino
 
--Teensy 3.2 + OLED + sensors (BME280, SenseAir S8, Winsen O2)
+- Teensy 3.2 + OLED + sensors (BME280, SenseAir S8, Winsen O2)
  Teensy_3.2_Work_with_OLED_CO2_BME280_O2.ino
 
 
