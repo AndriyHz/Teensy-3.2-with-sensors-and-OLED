@@ -26,10 +26,10 @@ Basic Arduino example for K-Series sensor Created by Jason Berger
 
 OLED Teensy 3.2 (PIN)
 
-#define PIN_RESET 14 -----> RES 14
-#define PIN_DC 9 -----> DC 9
-#define PIN_CS 10 -----> CS 10
-#define PIN_SCK 13 -----> D0 13
-#define PIN_MOSI 11 -----> D1 11
+#define PIN_RESET 14 -----> RES
+#define PIN_DC 9 -----> DC
+#define PIN_CS 10 -----> CS
+#define PIN_SCK 13 -----> D0
+#define PIN_MOSI 11 -----> D1
 
 
