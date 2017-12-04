@@ -14,7 +14,7 @@ LIBRARY (Please add)
 -OLED Work only with library KurtE/SparkFun_TeensyView_Arduino_Library (https://github.com/KurtE/SparkFun_TeensyView_Arduino_Library/tree/Multiple_SPI_EventResponder/examples).
 
 -BME280 Library
-(https://github.com/bolderflight/BME280)
+(https://github.com/bolderflight/BME280); (https://github.com/sparkfun/SparkFun_BME280_Arduino_Library)
 
 -S8 Library
 Basic Arduino example for K-Series sensor Created by Jason Berger
